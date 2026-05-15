@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **a RL project**
 
-- 🌱 I'm currently learning **DRL and LLM**
+- 🌱 I'm currently learning **DRL and VLA**
 
 - 🤝 I'm looking for help with **learning VLA**
 
