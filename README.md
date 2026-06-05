@@ -6,8 +6,6 @@
 
 - 🌱 I'm currently learning **DRL and VLA**
 
-- 🤝 I'm looking for help with **learning VLA**
-
 - 📫 How to reach me **yix3238@gmail.com**
 
 - ⚡ Fun fact **:)**
