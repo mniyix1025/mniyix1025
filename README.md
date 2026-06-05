@@ -13,7 +13,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/mniyix1025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mniyix1025" height="30" width="40" /></a>
-<a href="https://twitter.com/eloiseyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eloiseyyy" height="30" width="40" /></a>
 <a href="https://leetcode.com/eloiseyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eloiseyyy" height="30" width="40" /></a>
 </p>
 
